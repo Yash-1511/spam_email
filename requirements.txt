@@ -7,3 +7,4 @@ httptools
 scikit-learn
 numpy
 pandas
+gunicorn
