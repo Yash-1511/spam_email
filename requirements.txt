@@ -1,9 +1,9 @@
-fastapi==0.79.0
-numpy==1.23.1
-pandas==1.4.3
+fastapi==0.79.1
 pydantic==1.9.2
-scikit_learn==1.1.2
+tensorflow==2.9.0
 uvicorn==0.18.2
-gunicorn==19.9.0
 uvloop
 httptools
+scikit-learn
+numpy
+pandas
